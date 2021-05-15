@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>夏明</title>
+    
+    
+    
+    <link>https://xiaming.com.cn/</link>
+    <description>Recent content on 夏明</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://xiaming.com.cn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git 常用命令</title>
+      <link>https://xiaming.com.cn/git-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaming.com.cn/git-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;p&gt;Git的日常使用，一般来说只需要记住下图的6个命令就可以了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.xiaming.com.cn/file/xiamingcomcn/2021/03/Git+%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.png&#34; alt=&#34;Git 常用命令.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;下面是Git的一些常用命令清单，几个专用名词的译名如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Workspace：工作区&lt;/li&gt;
+&lt;li&gt;Index / Stage：暂存区&lt;/li&gt;
+&lt;li&gt;Repository：仓库区（或本地仓库）&lt;/li&gt;
+&lt;li&gt;Remote：远程仓库&lt;/li&gt;
+&lt;/ul&gt;
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>前端开发规范</title>
+      <link>https://xiaming.com.cn/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83/</link>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaming.com.cn/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;h2 id=&#34;概述&#34;&gt;概述&lt;/h2&gt;
+&lt;p&gt;浏览器内核的不同，我们知道他们显示页面或者排版就有些许差异，所以我们要遵循web标准可以让不同我们写的页面更标准更统一外，另外许多优点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;让Web的发展前景更广阔&lt;/li&gt;
+&lt;li&gt;内容能被更广泛的设备访问&lt;/li&gt;
+&lt;li&gt;更容易被搜寻引擎搜索&lt;/li&gt;
+&lt;li&gt;降低网站流量费用&lt;/li&gt;
+&lt;li&gt;使网站更易于维护&lt;/li&gt;
+&lt;li&gt;提高页面浏览速度&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;web-标准构成&#34;&gt;Web 标准构成&lt;/h2&gt;
+&lt;p&gt;构成：主要包括结构（Structure）、表现（Presentation）和行为（Behavior）三个方面。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;结构：HTML - 结构用于对网页元素进行整理和分类，。&lt;/li&gt;
+&lt;li&gt;表现: CSS - 表现用于设置网页元素的版式、颜色、大小等外观样式&lt;/li&gt;
+&lt;li&gt;行为：Javascript - 行为是指网页模型的定义及交互的编写&lt;/li&gt;
+&lt;/ul&gt;
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>吃啥呢？</title>
+      <link>https://xiaming.com.cn/%E5%90%83%E5%95%A5%E5%91%A2/</link>
+      <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaming.com.cn/%E5%90%83%E5%95%A5%E5%91%A2/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;p&gt;每到饭点，总有一个世纪难题困扰着我，那就是吃啥呢？&lt;/p&gt;
+&lt;p&gt;为了解决自己的选择困难症，写了个小网页。&lt;/p&gt;
+&lt;p&gt;吃啥呢？杭州良渚version！&lt;/p&gt;
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>游西湖</title>
+      <link>https://xiaming.com.cn/%E6%B8%B8%E8%A5%BF%E6%B9%96/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaming.com.cn/%E6%B8%B8%E8%A5%BF%E6%B9%96/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;p&gt;&lt;img src=&#34;https://cdn.xiaming.com.cn/file/xiamingcomcn/2021/02/%E6%B8%B8%E8%A5%BF%E6%B9%961.jpg&#34; alt=&#34;游西湖1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;作为一个土生土长的杭州本地人，今天竟然是我第一次坐游船游西湖&amp;hellip;&lt;/p&gt;
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>猫咖</title>
+      <link>https://xiaming.com.cn/%E7%8C%AB%E5%92%96/</link>
+      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaming.com.cn/%E7%8C%AB%E5%92%96/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;p&gt;&lt;img src=&#34;https://cdn.xiaming.com.cn/file/xiamingcomcn/2021/02/%E7%8C%AB%E5%92%961.JPG&#34; alt=&#34;猫咖1.JPG&#34;&gt;&lt;/p&gt;
+&lt;p&gt;趁着春节期间高速免费，总想着出趟杭州，去自驾游一下，无奈现在因为疫情原因也不敢跑的太远，所以就想着去杭州边上的富阳桐庐这些山山水水的地方玩一下。&lt;/p&gt;
+&lt;p&gt;没想到！出来的时候晴空万里，刚到富阳就下大雨了！&lt;/p&gt;
+&lt;p&gt;哎，来都来了，就随便找个这边的猫咖喝点东西撸撸猫吧~&lt;/p&gt;
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>年夜饭</title>
+      <link>https://xiaming.com.cn/%E5%B9%B4%E5%A4%9C%E9%A5%AD/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaming.com.cn/%E5%B9%B4%E5%A4%9C%E9%A5%AD/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;p&gt;&lt;img src=&#34;https://cdn.xiaming.com.cn/file/xiamingcomcn/2021/02/%E5%B9%B4%E5%A4%9C%E9%A5%AD.JPG&#34; alt=&#34;年夜饭.JPG&#34;&gt;&lt;/p&gt;
+&lt;p&gt;我们家的年夜饭，虽然不是一年当中吃的最好的一顿，但绝对是一年当中吃的最开心最幸福的一顿~&lt;/p&gt;
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Taycan 实车</title>
+      <link>https://xiaming.com.cn/taycan-%E5%AE%9E%E8%BD%A6/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaming.com.cn/taycan-%E5%AE%9E%E8%BD%A6/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;p&gt;&lt;img src=&#34;https://cdn.xiaming.com.cn/file/xiamingcomcn/2021/03/Taycan+%E5%AE%9E%E8%BD%A61.jpeg&#34; alt=&#34;Taycan 实车1.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;下午去附近商场买点东西，竟然在地库碰到了保时捷最新上市不久的Taycan实车，真帅啊~&lt;/p&gt;
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>海南游 Day4</title>
+      <link>https://xiaming.com.cn/%E6%B5%B7%E5%8D%97%E6%B8%B8-day4/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaming.com.cn/%E6%B5%B7%E5%8D%97%E6%B8%B8-day4/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;p&gt;&lt;img src=&#34;https://cdn.xiaming.com.cn/file/xiamingcomcn/2021/02/%E6%B5%B7%E5%8D%97%E6%B8%B8+Day4-1.jpeg&#34; alt=&#34;海南游 Day4-1.jpeg&#34;&gt;&lt;/p&gt;
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>海南游 Day3</title>
+      <link>https://xiaming.com.cn/%E6%B5%B7%E5%8D%97%E6%B8%B8-day3/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaming.com.cn/%E6%B5%B7%E5%8D%97%E6%B8%B8-day3/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;p&gt;&lt;img src=&#34;https://cdn.xiaming.com.cn/file/xiamingcomcn/2021/02/%E6%B5%B7%E5%8D%97%E6%B8%B8+Day3-1.jpeg&#34; alt=&#34;海南游 Day3-1.jpeg&#34;&gt;&lt;/p&gt;
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>海南游 Day2</title>
+      <link>https://xiaming.com.cn/%E6%B5%B7%E5%8D%97%E6%B8%B8-day2/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaming.com.cn/%E6%B5%B7%E5%8D%97%E6%B8%B8-day2/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;p&gt;&lt;img src=&#34;https://cdn.xiaming.com.cn/file/xiamingcomcn/2021/02/%E6%B5%B7%E5%8D%97%E6%B8%B8+Day2-1.jpeg&#34; alt=&#34;海南游 Day2-1.jpeg&#34;&gt;&lt;/p&gt;
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>海南游 Day1</title>
+      <link>https://xiaming.com.cn/%E6%B5%B7%E5%8D%97%E6%B8%B8-day1/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaming.com.cn/%E6%B5%B7%E5%8D%97%E6%B8%B8-day1/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;p&gt;&lt;img src=&#34;https://cdn.xiaming.com.cn/file/xiamingcomcn/2021/02/%E6%B5%B7%E5%8D%97%E6%B8%B8+Day1-1.jpeg&#34; alt=&#34;海南游 Day1-1.jpeg&#34;&gt;&lt;/p&gt;
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>https://xiaming.com.cn/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaming.com.cn/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          关于我 姓名：夏明
+性别：男
+生日：1998-05-06
+家乡：中国杭州
+兴趣爱好：汽车、数码、电影、旅行、爬山、游泳
+关于本站 一个用来记录我生活的小破站。
+托管于Github Pages&amp;amp;Backblaze，采用Cloudflare进行全球CDN加速。
+联系我 电子邮箱：aUB4aWFtaW5nLmNvbS5jbg==（请使用Base64解码）
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>友链</title>
+      <link>https://xiaming.com.cn/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaming.com.cn/links/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          暂无。
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>归档</title>
+      <link>https://xiaming.com.cn/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaming.com.cn/archive/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
